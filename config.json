@@ -1,0 +1,10 @@
+{
+  "podcasts": [
+    {
+      "name": "Joe Rogan Experience",
+      "url": "https://spotifeed.timdorr.com/4rOoJ6Egrf8K2IrywzwOMk",
+      "destination": "/Users/paulius/Public"
+    }
+  ],
+  "limit": 1
+}

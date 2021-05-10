@@ -1,0 +1,29 @@
+{
+  "name": "podcastfeeder",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Feed me bite-sized podcasts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irgipaulius/PodcastFeeder.git"
+  },
+  "author": "Paulius Jacinkevicius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irgipaulius/PodcastFeeder/issues"
+  },
+  "homepage": "https://github.com/irgipaulius/PodcastFeeder#readme",
+  "dependencies": {
+    "ffmetadata": "^1.7.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "podcast-downloader": "^1.0.2",
+    "request": "^2.88.2",
+    "url": "^0.11.0"
+  }
+}
